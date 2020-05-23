@@ -1,3 +1,3 @@
 # CV
-## [ONLINE](https://alexandrewa.github.io/cv/)
-## [PDF](https://nbviewer.jupyter.org/github/AlexandreWa/cv/blob/master/Alexandre_Wauthier_CV.pdf)
+## [ONLINE](https://cv.alexandrewauthier.fr/)
+## [PDF](https://nbviewer.jupyter.org/github/alexandrewauthier/cv/blob/master/Alexandre_Wauthier_CV.pdf)
